@@ -1,0 +1,66 @@
+Blender Notes
+
+
+Book: Low Poly 3D Modeling in Blender
+Author: Samuel Sullins
+
+Understanding Meshes
+
+Chapter 2 - Understanding Low Poly Modeling
+- blender objects are 2 parts
+    - underlying mesh
+    - object's location, rotation, and scale
+
+    - mesh is the underlying shape (model part of a 3D model)
+    - mesh is made of vertices, edges, and faces
+        - vertices - single points in 3D space
+        - edges - lines that connect vertices
+        - faces (polygons) - shapes defined by edges
+
+    - smooth vs. flat shading
+        - smoothness is only an illsion
+        - all objects have flat shading and smooth shading must be enabled if desired
+
+    - High poly vs. Low poly
+        - poly count - number of polygons/faces in a mesh
+        - gives good idea of complexity of a mesh
+        - the more polygons the more computing power required
+
+        High Poly
+            - generally in the millions
+            - low poly - up to a few hundred
+                - medium is in between
+            - blender struggles with high vertices count
+            - used for high detail - but can fake with great textures
+            - usually created with digital scanning or sculpting
+
+        Mid-Poly
+        - balance of enough polygons that can be deformed for animations
+        - used in animated films as part of a subdivision workflow
+            - faces are divided into smaller faces
+        
+        Low poly
+            - very few polygons
+            - simplistic look
+            - suited for simple video games or animated sequences
+
+        good to keep models in the low-to-mid poly range (for cpu resource reasons)
+
+        Low Poly as an art style
+        - flat-shaded, unsmoothed, minimal 3D artwork
+        - clean, simplistic style
+        - goal is to embrace simplicity of an object
+        - create with only required polygons
+        - simplify but not too much
+        - simplicity and complexity
+        - simple object combined with realistic shading, high resolution rendering, and modern lighting techniques
+        
+            - The Rule of Polygons
+                - relation between an objects polygon count and its size to importance in the scene
+                - the smaller an object, the fewer the polygons it should have
+                - example - an object that has smaller versions should be their own 3d model so the polygons shapes are the same size
+                - helps looks more cohesive and professional
+
+Chapter 3
+
+            
