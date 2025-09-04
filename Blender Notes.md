@@ -4,9 +4,10 @@ Blender Notes
 Book: Low Poly 3D Modeling in Blender
 Author: Samuel Sullins
 
-Understanding Meshes
 
 Chapter 2 - Understanding Low Poly Modeling
+
+Understanding Meshes
 - blender objects are 2 parts
     - underlying mesh
     - object's location, rotation, and scale
@@ -61,6 +62,10 @@ Chapter 2 - Understanding Low Poly Modeling
                 - example - an object that has smaller versions should be their own 3d model so the polygons shapes are the same size
                 - helps looks more cohesive and professional
 
-Chapter 3
+Chapter 3 - Creating a Low Poly Tree
 
-            
+- Transforming objects
+    - Transform - position, rotation, scale
+    - edit mode
+    - extrusion
+    - parenting objects
