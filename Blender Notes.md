@@ -87,6 +87,10 @@ Chapter 4 - Exploring Modifiers
             - when you using Array, the amount of duplicates will expnentially duplicate
                 - example, 10 count will result in 10 duplicates in the first array, the next array duplicate of the same object with a 10 count will result in 100 total objects
         - Mirror
+            - helps making symetrical objects easier and efficient
+            - examples, character, vehicle, or almost anything
+            - usually the X axis is where objects are mirrored
+            - you can attach your mirrow to another object (chair example)
         - Bevel
         - Solidy
 
