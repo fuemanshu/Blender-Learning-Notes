@@ -103,9 +103,35 @@ Chapter 4 - Exploring Modifiers
             - like the Extrude tool in Edit Mode - adding thickness to a mesh
             - simply adjust the Thickness value for desired affect
             
-
-    
-
 Chapter 5 - Creating Low Poly Mushrooms
+
+    - Reference Images
+    - Starting with Basic Shapes
+    - Edit mesh for low poly look
+
+    - Reference Images
+        - recommended to give you an idea of what you are making
+        - or just have a clear idea of what you're going to create
+    
+    - Starting with Basic Shapes
+        - start with shape similar to desired object (don't create more work for yourself)
+        - 
+
+    - sides
+        - tri - 3 sided
+            - simplest possible shape
+            - used in high poly meshes
+            - cannot be bent
+            - use seldomly and only for artistic scenes not videos or games
+        - quad - 4 sided
+            - ideal for subdivision work
+            - keep flat
+        - n-gon - 5 or more
+            - best used as perfectly flat
+            - don't bend well
+    - Triangulation
+        - 
+    - Starting with Basic Shapes
+    - Edit mesh for low poly look
 
 Chapter 6 - Understanding Materials and Shading
