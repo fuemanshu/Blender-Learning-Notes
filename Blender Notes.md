@@ -100,7 +100,9 @@ Chapter 4 - Exploring Modifiers
                 - great for objects with smooth and sharp edges
             - 
         - Solidify
-            - 
+            - like the Extrude tool in Edit Mode - adding thickness to a mesh
+            - simply adjust the Thickness value for desired affect
+            
 
     
 
