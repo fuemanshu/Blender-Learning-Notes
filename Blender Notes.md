@@ -69,3 +69,29 @@ Chapter 3 - Creating a Low Poly Tree
     - edit mode
     - extrusion
     - parenting objects
+
+Part 2 - Modeling and Shading for Low Poly
+
+Chapter 4 - Exploring Modifiers
+    
+    - Modifiers allow you to make edits and changes that are not permanent until you apply them
+    - Modifiers simplify and automate tasks
+
+    Modifiers
+        - Array
+            - Duplicates object over and over in a straigth line, as many times as you want
+            - examples - fence, wooden bridge
+            - can combine with Curve Modifier to create line of objects along a curve
+            - Count - number of duplicates
+            - Relative Offset - spacing between duplicates
+            - when you using Array, the amount of duplicates will expnentially duplicate
+                - example, 10 count will result in 10 duplicates in the first array, the next array duplicate of the same object with a 10 count will result in 100 total objects
+        - Mirror
+        - Bevel
+        - Solidy
+
+    
+
+Chapter 5 - Creating Low Poly Mushrooms
+
+Chapter 6 - Understanding Materials and Shading
