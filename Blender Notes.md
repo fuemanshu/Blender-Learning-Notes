@@ -92,7 +92,15 @@ Chapter 4 - Exploring Modifiers
             - usually the X axis is where objects are mirrored
             - you can attach your mirrow to another object (chair example)
         - Bevel
-        - Solidy
+            - used to round off or chamfer sharp edges
+            - used mainly in real world objects since most objects are rouned (even really sharp objects)
+            - Amount - size of bevel
+            - Segment - controls the smoothness of bevel
+            - Angle - any angles greater than set angle is beveled
+                - great for objects with smooth and sharp edges
+            - 
+        - Solidify
+            - 
 
     
 
