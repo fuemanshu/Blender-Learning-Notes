@@ -135,3 +135,22 @@ Chapter 5 - Creating Low Poly Mushrooms
     - Edit mesh for low poly look
 
 Chapter 6 - Understanding Materials and Shading
+
+    - what are materials and how they work
+    - create materials
+    - edit materials
+    - understand basics of Shader Editor
+    - add multiple materials to one model
+
+    - Rendering Engine - does the work of rendering
+        - calculates what scene looks like from pov of camera, simulates light and shadow
+        - Blender has two - Eevee and Cycles
+    - Materials decide how light is going to react with objects
+        - materials define all the physical properties of an object's surface
+            - color, roughness, shine, metalic, transparency, etc.
+        - lights must be set up to see materials
+        - Material Preview mode - lets you view materials with default ligthing setups
+        - Shading Workspace - where you create materials
+        
+    - Shader Editor
+        - 
