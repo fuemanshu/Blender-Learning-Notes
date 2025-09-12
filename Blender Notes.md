@@ -153,4 +153,25 @@ Chapter 6 - Understanding Materials and Shading
         - Shading Workspace - where you create materials
         
     - Shader Editor
-        - 
+        - For Low Poly - Only need Shader Editer
+        - Nodes - pieces of materials (building blocks that perform a specific function)
+            - connect sockets together to build complicated materials
+            - Two defaults nodes
+                - Principle BSDF
+                - Material Output
+            - Principle BSDF - (Bidirectional Scattering Distribution Function)
+                - calculates how light bounces off a surface
+                - only note connected to Surface output
+                - focus on these inputs
+                    - Base Color, Metallic, Roughness
+                    - with these you can make different materials***
+                        - mirror - base color -> black, metaliic -> 1, roughness -> 0
+                        - shiny plastic - metallic -> 0, roughness -> 0
+                        - gold -> base color -> organe-yellow (#FCB001FF), metallic -> 1, roughness -> 0-0.1
+            - Material Output
+                - always last in material/node tree
+                - Surface input - most important
+                    - connects to Shader - which defines what the surface looks like and how each face displayed at render time
+                - shaders nodes are green
+        Materials for Low-Poly Tree
+            - 
