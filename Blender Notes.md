@@ -173,5 +173,5 @@ Chapter 6 - Understanding Materials and Shading
                 - Surface input - most important
                     - connects to Shader - which defines what the surface looks like and how each face displayed at render time
                 - shaders nodes are green
-        Materials for Low-Poly Tree
-            - 
+        - Material Slots - allows different materials for different parts on an object
+            - create the slots in the Shader Editer, then assign them to specific surfaces
