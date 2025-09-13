@@ -175,3 +175,15 @@ Chapter 6 - Understanding Materials and Shading
                 - shaders nodes are green
         - Material Slots - allows different materials for different parts on an object
             - create the slots in the Shader Editer, then assign them to specific surfaces
+
+Part 3 - Creating Your Own Assets
+
+Chapter 7 - Creating a Low Poly Tractor
+
+Chapter 8 - Low Poly Environment Modeling
+
+Chapter 9 - Modeling a Kangaroo
+
+Chapter 10 - Creating Low Poly Houses and Buildings
+
+Chapter 11 - Using the Asset Browser
