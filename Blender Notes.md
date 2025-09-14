@@ -179,6 +179,10 @@ Chapter 6 - Understanding Materials and Shading
 Part 3 - Creating Your Own Assets
 
 Chapter 7 - Creating a Low Poly Tractor
+    - break your model into parts to make it manageable
+    - think through the process before starting (brainstorm)
+    - use Inset, Extrude, and Scale to make shapes (Tractor Example)
+        - Alt + E to bring up menu to Extrude Individual Faces (in individual directions)
 
 Chapter 8 - Low Poly Environment Modeling
 
