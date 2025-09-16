@@ -185,8 +185,24 @@ Chapter 7 - Creating a Low Poly Tractor
         - Alt + E to bring up menu to Extrude Individual Faces (in individual directions)
 
 Chapter 8 - Low Poly Environment Modeling
+    - grass - cylinder w/ 3 vertices, scale down top face to taper, add extra vertices in order to add curvature, merge top face (press m, Center) to make grass pointy
+    - Proportional Editing - allows for a certain action to affect other things within a certain distance (Fall Off Radius)
+    - Rocks - icosphere, join - select two opposing vertices and press j (when there are more than 4 or more edges on the face on an icosphere)
+    - merge - allows you to merge vertices to one location if there are too many in one area
+    - Knife tool (K) - used to add vertices in the middle of edges, great for adding variety to simple objects that are duplicated
 
 Chapter 9 - Modeling a Kangaroo
+    - Importing Reference Images
+    - Where to Start when modeling an animal
+    - Steps to model any animal in low poly
+    
+    - Knife tool is very helpful
+    - Reference Images - find whatever you can for reference
+        - multiple angles - front, side, top
+        - simple line art is the usually the best
+        - search "[animal] bluebprint image"
+    - Importing into Blender
+        - 
 
 Chapter 10 - Creating Low Poly Houses and Buildings
 
