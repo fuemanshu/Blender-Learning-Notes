@@ -202,6 +202,12 @@ Chapter 9 - Modeling a Kangaroo
         - simple line art is the usually the best
         - search "[animal] bluebprint image"
     - Importing into Blender
+        - set up view so Front View (1) shows front of animal or object
+        - Use Opacity setting to make image easier to look at
+        - use multiple angles in Blender for reference (front and side usually work best)
+    - Start with a Plane mesh, then extrude it
+        - do all the following as a plane first
+            - set up the basic shape of the torso, then extrude the limbs, neck, and head
         - 
 
 Chapter 10 - Creating Low Poly Houses and Buildings
