@@ -86,7 +86,7 @@ Chapter 4 - Exploring Modifiers
             - Relative Offset - spacing between duplicates
             - when you using Array, the amount of duplicates will expnentially duplicate
                 - example, 10 count will result in 10 duplicates in the first array, the next array duplicate of the same object with a 10 count will result in 100 total objects
-        - Mirror
+        - Mirror / glass
             - helps making symetrical objects easier and efficient
             - examples, character, vehicle, or almost anything
             - usually the X axis is where objects are mirrored
@@ -211,5 +211,20 @@ Chapter 9 - Modeling a Kangaroo
         - 
 
 Chapter 10 - Creating Low Poly Houses and Buildings
+    - build two skyscrapers
+        - add details to skyscrapers
+    - create a house
+        - make windows and roofs
+    
+    - creating details on an existing building or model
+        - duplicate object
+        - then delete faces not needed
+        - select all edges, then go to Edges > Subdivide
+        - delete faces where you want openings, etc
+        - use solidfy to add thickness
+            - adjust thickness (negative and positive values are usable)
+    - Alt + D  (duplicate with materials - changing materials in one object will replicate it same objects)
+    - 
+
 
 Chapter 11 - Using the Asset Browser
