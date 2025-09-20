@@ -70,7 +70,7 @@ Chapter 3 - Creating a Low Poly Tree
     - extrusion
     - parenting objects
 
-Part 2 - Modeling and Shading for Low Poly
+--------------- Part 2 - Modeling and Shading for Low Poly ---------------
 
 Chapter 4 - Exploring Modifiers
     
@@ -176,7 +176,7 @@ Chapter 6 - Understanding Materials and Shading
         - Material Slots - allows different materials for different parts on an object
             - create the slots in the Shader Editer, then assign them to specific surfaces
 
-Part 3 - Creating Your Own Assets
+--------------- Part 3 - Creating Your Own Assets ---------------
 
 Chapter 7 - Creating a Low Poly Tractor
     - break your model into parts to make it manageable
@@ -224,7 +224,54 @@ Chapter 10 - Creating Low Poly Houses and Buildings
         - use solidfy to add thickness
             - adjust thickness (negative and positive values are usable)
     - Alt + D  (duplicate with materials - changing materials in one object will replicate it same objects)
-    - 
-
 
 Chapter 11 - Using the Asset Browser
+
+    - building a library of useful assets
+    - adding assets
+    - using assets in any scene
+
+    - in the Outline area you can right click and "mark as an asset"
+    - in the Properties > Materials section you can mark materials as an asset
+
+
+--------------- Part 4 - Building a Complete Low Poly Scene ---------------
+
+Chapter 12 - Blocking Out the Scene
+
+    - Get an idea of your scene first
+        - concept/idea
+        - understand how to come up with ideas
+        - understand what "concept art" means
+
+    - What is a scene?
+        - full set up of blender file to include: models, materials, lighting, cameras, (everything made in blender)
+        - concept art - rough sketch/idea
+        - modeling - creating assets in blender
+        - assign materials
+        - setting up the scene - build the scene
+        - ligthing - set up lights
+        - rendering - create final render/image
+
+    - Creating Concept Art
+        - crude sketches, hand-drawn images, photos, photoshopped messes, simple 3d setups, etc
+        - main objective is to give you an idea of what your scene is going to look like and what your final render will look like
+        - pictures and images make great concept art
+        - Sketching - easy and fast
+            - pencil and paper
+            - photoshop (images) - you could use images as reference images in blender
+        - list out what is in the scene
+        - use interesting "angles" so your scene has life
+        - Blocking out a scene - use simple shapes in Object Mode, no materials, G-R-S,
+            - keep it extremely simple (less than the bare minimum)
+            - start with a plane as the ground
+        - camera - N - check box for lock camera to view
+        - 
+
+m6Y87lzj1e1k
+Chapter 13 - Building the Scene
+
+Chapter 14 - The Big Render
+
+Chapter 15 - Appendix
+
