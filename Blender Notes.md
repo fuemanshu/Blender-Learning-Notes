@@ -266,12 +266,31 @@ Chapter 12 - Blocking Out the Scene
             - keep it extremely simple (less than the bare minimum)
             - start with a plane as the ground
         - camera - N - check box for lock camera to view
-        - 
 
-m6Y87lzj1e1k
 Chapter 13 - Building the Scene
+
+    - Select all applicable items Merge -> New Collection
+    - Building the Ground
+        - Array - add cube, add Array modifier to add multiple cubes/objects
+            - adjust x,y,z value 
+        - file - append - select objects/folders to import
+            - or use asset browser to bring in objects
 
 Chapter 14 - The Big Render
 
-Chapter 15 - Appendix
+    - what is rendering
+    - ligthing
+    - render final image
+
+    - Cycles - calculates each ray of light (better quality), takes longer to render
+        - better details
+    - Eevee - uses fancy math to calculate rendering (less quality), faster render time
+    
+    - Lighting - defines mood of a scene
+        - Point Lights, Spot Lights, Sun Lights, Area Lights
+        - properties - color, strength, angle
+        
+    - Output
+        - Render - Image - Save
+
 
